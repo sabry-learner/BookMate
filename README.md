@@ -4,7 +4,7 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - C# & .NET
 - Entity Framework Core
@@ -14,7 +14,7 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - Track multiple **users**, their reading **sessions**, and **suggestions**
 - Log moods, notes, ratings during sessions
