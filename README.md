@@ -1,8 +1,9 @@
 # 📚 BookMate (Reading Tracker Console App)
 
-A EF Core Console Application that tracks users’ reading habits, sessions, moods, and suggestions. It’s designed to help you apply all the important concepts in **Entity Framework Core** practically and efficiently.
+A EF Core Console Application that tracks users’ reading habits, sessions, moods, and suggestions.
+It’s designed to help you apply all the important concepts in **Entity Framework Core** practically and efficiently.
 
-
+---
 
 ## Technologies Used
 
@@ -12,6 +13,7 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 - SQL Server
 - Console UI
 
+---
 
 ##  Key Features
 
@@ -22,25 +24,34 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 - Uses both **Fluent API** 
 - Includes **manual seeding** of data
 
+---
 
 
 ## 🗂️ Entities Overview
 
 ### `User`
+
 - `Id`, `Name`, `Email`, `JoinDate`
 - `GenreStats`: FavoriteGenre, TotalPagesRead, AverageRating (Owned Type)
 - Navigation: `List<ReadingSession>`, `List<BookSuggestion>`
 
 ### `Book`
+
 - `Id`, `Title`, `Author`, `Genre`, `Pages`, `DifficultyLevel` (Enum)
 - Navigation: `List<ReadingSession>`
 
 ### `ReadingSession`
+
 - `Id`, `UserId`, `BookId`
 - `StartTime`, `EndTime`, `Mood` (Enum), `Notes`, `Rating`
 
 ### `BookSuggestion`
+
 - `Id`, `UserId`, `SuggestionText`, `SuggestedAt`
+
+
+
+---
 
 
 ## 🔄 Relationships
@@ -55,11 +66,21 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 
 
 
+
+---
+
+
+
 ## 🗃️ Database Schema
 
 The following ERD was generated in SQL Server:
 
 ![Database Schema](./Screenshot%202025-05-05%20163717.png)
+
+
+
+---
+
 
 
 ## 🧪 Seeding Notes
