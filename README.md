@@ -2,7 +2,7 @@
 
 A EF Core Console Application that tracks users’ reading habits, sessions, moods, and suggestions. It’s designed to help you apply all the important concepts in **Entity Framework Core** practically and efficiently.
 
----
+
 
 ## Technologies Used
 
@@ -12,7 +12,6 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 - SQL Server
 - Console UI
 
----
 
 ##  Key Features
 
@@ -23,7 +22,7 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 - Uses both **Fluent API** 
 - Includes **manual seeding** of data
 
----
+
 
 ## 🗂️ Entities Overview
 
@@ -43,7 +42,6 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 ### `BookSuggestion`
 - `Id`, `UserId`, `SuggestionText`, `SuggestedAt`
 
----
 
 ## 🔄 Relationships
 
@@ -55,7 +53,7 @@ A EF Core Console Application that tracks users’ reading habits, sessions, moo
 - **Owned Type**:  
   `User → GenreStats`
 
----
+
 
 ## 🗃️ Database Schema
 
@@ -63,7 +61,6 @@ The following ERD was generated in SQL Server:
 
 ![Database Schema](./Screenshot%202025-05-05%20163717.png)
 
----
 
 ## 🧪 Seeding Notes
 
