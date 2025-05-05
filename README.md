@@ -15,17 +15,16 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 ---
 
-##  Key Features
+## Key Features
 
 - Track multiple **users**, their reading **sessions**, and **suggestions**
 - Log moods, notes, ratings during sessions
 - **Books** categorized by genre and difficulty
 - User’s reading performance stored in an **owned type** (`GenreStats`)
-- Uses both **Fluent API** 
+- Uses both **Fluent API**
 - Includes **manual seeding** of data
 
 ---
-
 
 ## 🗂️ Entities Overview
 
@@ -49,10 +48,7 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 - `Id`, `UserId`, `SuggestionText`, `SuggestedAt`
 
-
-
 ---
-
 
 ## 🔄 Relationships
 
@@ -64,24 +60,15 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 - **Owned Type**:  
   `User → GenreStats`
 
-
-
-
 ---
-
-
 
 ## 🗃️ Database Schema
 
 The following ERD was generated in SQL Server:
 
-![Database Schema](./Screenshot%202025-05-05%20163717.png)
-
-
+![Database Schema](Images/schema.png)
 
 ---
-
-
 
 ## 🧪 Seeding Notes
 
@@ -92,3 +79,4 @@ So the initial data is seeded manually in the `Main` method using:
 context.Database.EnsureCreated();
 context.Users.AddRange(SeedData.GetUsers());
 context.SaveChanges();
+```

@@ -1,0 +1,321 @@
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\BookMate.exe
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\BookMate.deps.json
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\BookMate.runtimeconfig.json
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\BookMate.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\BookMate.pdb
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.AssemblyInfoInputs.cache
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.AssemblyInfo.cs
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.CoreCompileInputs.cache
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\refint\BookMate.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.pdb
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.genruntimeconfig.cache
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\ref\BookMate.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\appsettings.json
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Azure.Core.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Azure.Identity.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.ClientModel.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Memory.Data.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.AssemblyReference.cache
+D:\LearnCsharp\EfCore Console Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.Up2Date
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Humanizer.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.CodeDom.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\EfCore Console Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\BookMate.exe
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\appsettings.json
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\BookMate.deps.json
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\BookMate.runtimeconfig.json
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\BookMate.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\BookMate.pdb
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Azure.Core.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Azure.Identity.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Humanizer.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.ClientModel.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.CodeDom.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Memory.Data.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\LearnCsharp\GitHub Projects\BookMate\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.AssemblyReference.cache
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.AssemblyInfoInputs.cache
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.AssemblyInfo.cs
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.CoreCompileInputs.cache
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.sourcelink.json
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.csproj.Up2Date
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.dll
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\refint\BookMate.dll
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.pdb
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\BookMate.genruntimeconfig.cache
+D:\LearnCsharp\GitHub Projects\BookMate\obj\Debug\net9.0\ref\BookMate.dll
