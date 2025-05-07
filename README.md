@@ -5,16 +5,6 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 ---
 
-## Technologies Used
-
-- C# & .NET
-- Entity Framework Core
-- Code First Approach
-- SQL Server
-- Console UI
-
----
-
 ## Key Features
 
 - Track multiple **users**, their reading **sessions**, and **suggestions**
