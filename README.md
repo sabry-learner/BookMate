@@ -1,4 +1,4 @@
-# 📚 BookMate (Reading Tracker Console App)
+# BookMate (Reading Tracker Console App)
 
 A EF Core Console Application that tracks users’ reading habits, sessions, moods, and suggestions.
 It’s designed to help you apply all the important concepts in **Entity Framework Core** practically and efficiently.
@@ -26,7 +26,7 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 ---
 
-## 🗂️ Entities Overview
+## Entities Overview
 
 ### `User`
 
@@ -50,7 +50,7 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 ---
 
-## 🔄 Relationships
+## Relationships
 
 - **One-to-Many**:  
   `User → ReadingSessions`  
@@ -62,7 +62,7 @@ It’s designed to help you apply all the important concepts in **Entity Framewo
 
 ---
 
-## 🗃️ Database Schema
+## Database Schema
 
 The following ERD was generated in SQL Server:
 
@@ -70,7 +70,7 @@ The following ERD was generated in SQL Server:
 
 ---
 
-## 🧪 Seeding Notes
+## Seeding Notes
 
 EF Core doesn't support `.HasData()` with owned types like `GenreStats`.  
 So the initial data is seeded manually in the `Main` method using:
